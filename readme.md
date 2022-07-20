@@ -3,6 +3,8 @@ All types of sort for Python.. Soon will be released in pypi
 ```py
 import sorting
 
+#contributions are welcomed XD
+
 data = [1, 8, 3, 5, 6, 9, 2, 4]
 
 res = sorting.bubble(data)
@@ -52,6 +54,5 @@ Selection Sort   :  [1, 2, 3, 4, 5, 6, 8, 9]
 Cycle Sort       :  [1, 2, 3, 4, 5, 6, 8, 9]
 ```
 
-<hr>
-contributions are welcomed XD
+
 
