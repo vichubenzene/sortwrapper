@@ -51,3 +51,7 @@ Radix Sort       :  [1, 2, 3, 4, 5, 6, 8, 9]
 Selection Sort   :  [1, 2, 3, 4, 5, 6, 8, 9]
 Cycle Sort       :  [1, 2, 3, 4, 5, 6, 8, 9]
 ```
+
+<hr>
+contributions are welcomed XD
+
