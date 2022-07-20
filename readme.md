@@ -1,4 +1,4 @@
-All types of sort for Python.. Soon will be released in pypi
+Few types of sort for Python.. Soon will be released in pypi
 
 ```py
 import sorting
